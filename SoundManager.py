@@ -7,7 +7,7 @@ import arcade
 from pathlib import Path
 
 # Sound settings
-SOUND_VOLUME = 0.45
+SOUND_VOLUME = 0.60
 SAMPLE_RATE = 22050
 
 class SoundManager:
