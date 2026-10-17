@@ -4,7 +4,7 @@ I writed this code to practice my skills in python, using libraries like pygame 
 
 This game uses pygame to create blocks as an object with properties, as well as a ball that interacts with the block, bousing on them and on the limits of the screen, and specially, an small and horizontal platform that moves to left or right with the keys of the keyboard. We need to avoid the ball falling in the button of the screen and make it bounce with every block to desapear all of them.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/JMeRPB0wdy0)
 
 # Development Environment
 
